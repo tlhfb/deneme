@@ -5,5 +5,6 @@ public class ATM {
         Scanner scan = new Scanner(System.in);
         int a = scan.nextInt();
         System.out.println("a'nın 2 fazlası = "+ (a+2));
+        System.out.println("fffffffffffffffffff");
     }
 }
